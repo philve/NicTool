@@ -2,6 +2,9 @@
 
 NicTool is a open source DNS management suite that takes the headaches out of managing DNS data.  NicTool provides a easy to use web interface that allows users with little dns knowledge the ability to manage dns zones and records.
 
+### Install-djbdns-on-Debian (tinydns)
+https://github.com/msimerson/NicTool/wiki/Install-djbdns-on-Debian
+
 ### Features
 
 * Web interface for users, admins, and clients
